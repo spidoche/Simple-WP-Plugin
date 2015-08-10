@@ -8,7 +8,7 @@
  * Author URI: http://spidoche.com
 
  * USAGE : replace prefix_ and PREFIX_ to your unique plugin id
- 
+
  */
 
 // SECURITY
